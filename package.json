@@ -47,7 +47,7 @@
     "serverless-finch": "^2.6.0",
     "typescript": "~3.7.2",
     "yup": "^0.29.1",
-    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin",
+    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
